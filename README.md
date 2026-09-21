@@ -1,6 +1,7 @@
 # HackXpansion Speaker Module
 
 **Cargo:** pkg:cargo/hackxpansion_speaker@0.1.0
+<br/>
 A modular audio expansion for **HackXpansion**, designed to give the system high-quality digital audio playback through an external speaker.
 
 The module takes digital audio from the HackXpansion controller, converts it to an analog signal, amplifies it, and drives a speaker — all through a compact plug-in expansion board.
