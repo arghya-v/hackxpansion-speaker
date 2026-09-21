@@ -181,8 +181,3 @@ speaker-module/
 
 MIT License
 
-## Author
-
-**Arghya Vyas**
-
-Built as part of the **HackXpansion** project.
