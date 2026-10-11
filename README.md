@@ -8,7 +8,7 @@ The module takes digital audio from the Hackxpansion controller, converts it to 
 ## Images
 ![case](https://cdn.hackclub.com/01a0bbe8-d943-7aad-8db5-c783844745b8/image.png)
 ![pcb](https://cdn.hackclub.com/01a0a24d-f736-7c97-8032-d4e0bac616ac/image.png)
-
+![pcb3d](https://cdn.hackclub.com/01a12b6b-b5b6-7693-9742-a80f6acd03ed/image.png)
 ## Schematic
 ![schematic](https://cdn.hackclub.com/01a0a243-7778-77a2-8318-0d572c64835c/image.png)
 ## Overview
